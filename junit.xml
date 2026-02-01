@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="vitest tests" tests="2" failures="0" errors="0" time="8.599">
+    <testsuite name="src/App.test.jsx" timestamp="2026-02-01T04:46:14.360Z" hostname="DESKTOP-BJCBOBL" tests="2" failures="0" errors="0" skipped="0" time="0.053">
+        <testcase classname="src/App.test.jsx" name="Product Dashboard &gt; renders without crashing" time="0.048">
+        </testcase>
+        <testcase classname="src/App.test.jsx" name="Product Dashboard &gt; displays product dashboard" time="0.001">
+        </testcase>
+    </testsuite>
+</testsuites>
